@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Two Numbers</title>
+    <link rel="stylesheet" href="CSS/2.CSS">
+</head>
+<body>
+    <div class="container">
+        <h1>Add Two Numbers</h1>
+        <form id="numberForm">
+            <input type="number" id="num1" class="form-input" placeholder="Enter First Number" required>
+            <input type="number" id="num2" class="form-input" placeholder="Enter Second Number" required>
+            <button type="submit">Add Numbers</button>
+        </form>
+        <h2 id="result"></h2>
+    </div>
+    <script>
+        document.getElementById('numberForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            let num1 = parseFloat(document.getElementById('num1').value);
+            let num2 = parseFloat(document.getElementById('num2').value);
+            let sum = num1 + num2;
+            document.getElementById('result').textContent = `Result: ${sum}`;
+        });
+    </script>
+</body>
+</html>
