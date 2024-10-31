@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./CSS/p-1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click button</title>
+    <script>
+        function say(){
+            alert("You clicked the button!");
+            document.getElementById("world").innerHTML="Hello, World";
+            }
+    </script>
+</head>
+<body>
+    <div>
+        <div class="gray">
+            <h1>Kindly Click the Button!!! </h1>
+        </div>
+        <div class="black">
+            <button type="button" onclick="say()">Click me</button>
+            <p id="world"></p>
+        </div>
+    </div>
+</body>
+</html>

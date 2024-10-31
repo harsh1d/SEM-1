@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="p-7.js"></script>
+    <link rel="stylesheet" href="./CSS/p-7.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>calculator</title>
+</head>
+<body>
+    <div>
+        <div class="back">
+            <p>&nbsp;</p>
+            <div class="cal">
+                <h1>Addition</h1>
+                <label for="num1">Number-1: </label>
+                <input type="text" name="num1" class="input" id="n1"> <br><br>
+                <label for="num2">Number-2: </label>
+                <input type="text" name="num2" class="input" id="n2"> <br><br>
+                <div>
+                    <button type="button" class="button" onclick="add()" style="left: -45px;">(+)</button>
+                    <button type="button" class="button" onclick="sub()" style="left: 105px">(-)</button>
+                    <button type="button" class="button" onclick="mul()" style="left: 250px;">(*)</button><br>
+                    <button type="button" class="button" onclick="div()" style="top: 290px; left:-45px;">(/)</button>
+                    <button type="button" class="button" onclick="mod()" style="top: 290px; left: 250px;">(%)</button>
+                </div>
+                <p id="hide" style="top: 80px;"></p>
+                <p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

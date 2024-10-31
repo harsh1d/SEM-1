@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My PHP Website</title>
+	<style>
+		#datetime {
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			margin-top: 20px;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Welcome to my website!</h1>
+	</header>
+	<main>
+		<p>This is the main content of my website.</p>
+		<p>The current date and time is: <span id="datetime"></span></p>
+	</main>
+	<footer>
+		<p>Copyright © 2024 My PHP Website</p>
+	</footer>
+	<script>
+		var datetime = document.getElementById('datetime');
+		setInterval(function () {
+			var date = new Date();
+			datetime.innerHTML = date.toLocaleString();
+		}, 1000);
+	</script>
+</body>
+</html>
