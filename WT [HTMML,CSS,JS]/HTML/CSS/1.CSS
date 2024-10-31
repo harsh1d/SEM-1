@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+#hello{
+    background-color: red;
+}
+#hi{
+    background-color: white;
+}
