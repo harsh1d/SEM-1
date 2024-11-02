@@ -1,0 +1,350 @@
+RANK,PREVIOUS,SCHOOL,CONFERENCE,RECORD,ROAD,NEUTRAL,HOME,NON-DI
+1,2,Florida,Southeastern,32-2,10-Feb,5- 0,17-0,0-0
+2,1,Arizona,Pac-12,30-Apr,08-Mar,04-Jan,18-0,0-0
+3,3,Kansas,Big 12,24-Sep,05-Jun,04-Feb,15-Jan,0-0
+4,4,Wichita St.,Missouri Valley,34-0,12-0,5- 0,16-0,1-0
+5,5,Villanova,Big East,28-Apr,10-Feb,03-Jan,15-Jan,0-0
+6,6,Wisconsin,Big Ten,26-Jul,08-Mar,04-Jan,14-Mar,0-0
+7,8,Iowa St.,Big 12,26-Jul,04-Jun,7- 0,15-Jan,0-0
+8,11,Virginia,Atlantic Coast,28-Jun,07-Apr,6- 0,15-Feb,0-0
+9,7,Duke,Atlantic Coast,26-Aug,04-May,05-Mar,17-0,0-0
+10,10,Creighton,Big East,26-Jul,07-Apr,03-Mar,16-0,0-0
+11,9,Michigan,Big Ten,25-Aug,07-Apr,05-Feb,13-Feb,0-0
+12,13,New Mexico,Mountain West,27-Jun,08-Mar,06-Jan,13-Feb,0-0
+13,12,VCU,Atlantic 10,26-Aug,06-May,05-Mar,15-0,0-0
+14,14,UCLA,Pac-12,26-Aug,05-May,05-Jan,16-Feb,0-0
+15,15,San Diego St.,Mountain West,29-Apr,10-Feb,04-Jan,13-Jan,2-0
+16,16,Syracuse,Atlantic Coast,27-May,08-Feb,03-Jan,16-Feb,0-0
+17,17,Kentucky,Southeastern,24-Oct,05-May,03-Mar,16-Feb,0-0
+18,21,Michigan St.,Big Ten,26-Aug,07-Mar,07-Jan,12-Apr,0-0
+19,18,Louisville,AAC,29-May,09-Feb,04-Jan,16-Feb,0-0
+20,19,Gonzaga,West Coast,28-Jun,07-Apr,05-Feb,15-0,1-0
+21,20,Cincinnati,AAC,27-Jun,07-Mar,02-Feb,18-Jan,0-0
+22,22,UConn,AAC,26-Aug,07-Apr,04-Jan,15-Mar,0-0
+23,23,Massachusetts,Atlantic 10,24-Aug,07-Apr,06-Feb,11-Feb,0-0
+24,24,Ohio St.,Big Ten,25-Sep,05-May,03-Jan,17-Mar,0-0
+25,25,North Carolina,Atlantic Coast,23-Sep,06-May,02-Jan,15-Mar,0-0
+26,27,Oklahoma,Big 12,23-Sep,05-Apr,04-Feb,14-Mar,0-0
+27,26,Saint Louis,Atlantic 10,26-Jun,11-Jan,01-Feb,13-Mar,1-0
+28,28,Oregon,Pac-12,23-Sep,05-May,03-Jan,15-Mar,0-0
+29,29,George Washington,Atlantic 10,24-Aug,06-May,04-Feb,14-Jan,0-0
+30,30,Baylor,Big 12,24-Nov,04-May,06-Feb,12-Apr,2-0
+31,31,BYU,West Coast,23-Nov,05-Jul,04-Mar,13-Jan,1-0
+32,37,Saint Joseph's,Atlantic 10,24-Sep,08-Apr,05-Jan,11-Apr,0-0
+33,32,Southern Miss.,Conference USA,27-Jun,10-May,03-Jan,12-0,2-0
+34,33,Colorado,Pac-12,23-Nov,05-Jun,02-Mar,16-Feb,0-0
+35,34,North Dakota St.,Summit,25-Jun,10-May,3- 0,09-Jan,3-0
+36,35,Texas,Big 12,23-Oct,05-Jun,02-Feb,16-Feb,0-0
+37,36,Memphis,AAC,23-Sep,05-May,03-Jan,14-Mar,1-0
+38,38,Toledo,Mid-American,27-Jun,09-May,03-Jan,14-0,1-0
+39,39,Pittsburgh,Atlantic Coast,25-Sep,07-Feb,05-Feb,13-May,0-0
+40,40,Providence,Big East,23-Nov,06-Jun,04-Feb,13-Mar,0-0
+41,41,Stanford,Pac-12,21-Dec,06-May,03-Mar,12-Apr,0-0
+42,42,Tennessee,Southeastern,21-Dec,04-Jul,03-Feb,13-Mar,1-0
+43,43,Dayton,Atlantic 10,23-Oct,07-Apr,03-Feb,13-Apr,0-0
+44,44,Arizona St.,Pac-12,21-Nov,04-Jul,01-Mar,16-Jan,0-0
+45,45,Oklahoma St.,Big 12,21-Dec,03-Jul,05-Feb,13-Mar,0-0
+46,46,Harvard,Ivy,26-Apr,11-Mar,4- 0,10-Jan,1-0
+47,47,Xavier,Big East,21-Dec,04-Jun,02-Apr,14-Feb,1-0
+48,48,Nebraska,Big Ten,19-Dec,03-Aug,01-Mar,15-Jan,0-0
+49,49,Missouri,Southeastern,22-Nov,03-Jul,04-Feb,15-Feb,0-0
+50,50,Minnesota,Big Ten,20-13,03-Jul,01-Mar,15-Mar,1-0
+51,51,Kansas St.,Big 12,20-Dec,02-Jul,03-Mar,15-Feb,0-0
+52,52,Stephen F. Austin,Southland,31-2,14-Feb,2- 0,11-0,4-0
+53,53,SMU,AAC,23-Sep,06-Jun,02-Feb,15-Jan,0-0
+54,54,Florida St.,Atlantic Coast,19-13,06-Jun,04-Feb,09-May,0-0
+55,55,North Carolina St.,Atlantic Coast,21-13,06-Jun,02-Jan,13-Jun,0-0
+56,57,Iowa,Big Ten,20-Dec,04-Jun,03-Feb,12-Apr,1-0
+57,56,Belmont,OVC,24-Sep,09-Jul,03-Jan,11-Jan,1-0
+58,58,Green Bay,Horizon,24-Jun,09-Feb,02-Jan,10-Mar,3-0
+59,59,Iona,Metro Atlantic,22-Oct,09-Jul,02-Jan,11-Feb,0-0
+60,60,Manhattan,Metro Atlantic,25-Jul,12-Apr,4- 0,09-Mar,0-0
+61,61,St. Mary's (CA),West Coast,22-Nov,06-May,01-Mar,14-Mar,1-0
+62,62,Louisiana Tech,Conference USA,27-Jul,09-Apr,05-Feb,12-Jan,1-0
+63,63,California,Pac-12,19-13,05-Jun,01-Mar,13-Apr,0-0
+64,64,Middle Tenn.,Conference USA,24-Sep,08-May,02-Feb,12-Feb,2-0
+65,65,Delaware,Colonial,25-Sep,11-Jul,4- 0,10-Feb,0-0
+66,66,Western Mich.,Mid-American,23-Sep,06-Jul,4- 0,12-Feb,1-0
+67,69,San Francisco,West Coast,21-Nov,07-May,01-Jan,11-May,2-0
+67,68,St. John's (NY),Big East,20-Dec,04-May,02-Feb,14-May,0-0
+69,67,Georgetown,Big East,17-14,02-Aug,03-Mar,12-Mar,0-0
+70,71,Illinois,Big Ten,19-14,05-Jun,04-Feb,10-Jun,0-0
+71,73,New Mexico St.,Western Athletic,26-Sep,08-Jul,04-Jan,13-Jan,1-0
+71,72,Indiana St.,Missouri Valley,23-Oct,08-Jun,03-Feb,10-Feb,2-0
+73,74,Tulsa,Conference USA,21-Dec,06-Jul,04-Feb,11-Mar,0-0
+74,75,Georgia,Southeastern,19-13,04-Jul,01-Apr,14-Feb,0-0
+75,76,Richmond,Atlantic 10,19-14,05-Aug,02-Feb,12-Apr,0-0
+76,70,Georgia St.,Sun Belt,25-Aug,10-Jun,02-Feb,11-0,2-0
+77,77,Arkansas,Southeastern,21-Nov,03-Jun,01-Mar,17-Feb,0-0
+78,78,Maryland,Atlantic Coast,17-15,02-Aug,03-Mar,11-Apr,1-0
+79,79,Clemson,Atlantic Coast,20-Dec,04-Jul,03-Feb,13-Mar,0-0
+80,80,Utah,Pac-12,21-Nov,02-Aug,01-Jan,16-Feb,2-0
+81,83,Mercer,Atlantic Sun,26-Aug,09-Jul,0- 0,14-Jan,3-0
+82,81,Boise St.,Mountain West,21-13,05-Jul,04-Feb,10-Apr,2-0
+83,82,LSU,Southeastern,19-13,03-Aug,03-Feb,13-Mar,0-0
+84,84,Boston U.,Patriot,24-Oct,11-Apr,02-Jan,11-May,0-0
+85,86,Missouri St.,Missouri Valley,20-Dec,04-Aug,02-Feb,13-Feb,1-0
+86,85,Eastern Mich.,Mid-American,21-14,04-Oct,02-Jan,12-Mar,3-0
+87,87,Ohio,Mid-American,23-Nov,10-Apr,01-Jan,11-Jun,1-0
+88,88,West Virginia,Big 12,17-15,03-Aug,03-Feb,11-May,0-0
+89,89,St. Bonaventure,Atlantic 10,18-15,04-Sep,04-Feb,09-Apr,1-0
+90,98,La.-Lafayette,Sun Belt,23-Nov,06-Sep,4- 0,10-Feb,3-0
+91,90,Cleveland St.,Horizon,21-Nov,09-Jul,0- 1,10-Mar,2-0
+92,91,Marquette,Big East,17-15,04-Aug,01-Mar,12-Apr,0-0
+93,92,Akron,Mid-American,21-Dec,06-Jul,02-Mar,13-Feb,0-0
+94,93,Ole Miss,Southeastern,19-14,04-Aug,03-Jan,12-May,0-0
+95,94,Towson,Colonial,23-Oct,07-Jul,01-Feb,13-Jan,2-0
+96,95,Canisius,Metro Atlantic,21-Dec,09-Jul,03-Jan,09-Mar,0-1
+97,96,Eastern Ky.,OVC,24-Sep,08-Jun,04-Jan,10-Feb,2-0
+98,97,La Salle,Atlantic 10,15-16,04-Aug,02-Mar,09-May,0-0
+99,99,N.C. Central,Mid-Eastern,28-May,11-May,3- 0,12-0,2-0
+100,101,Oregon St.,Pac-12,16-15,03-Sep,01-Feb,12-Apr,0-0
+101,100,Indiana,Big Ten,17-15,02-Aug,01-Mar,14-Apr,0-0
+101,102,Vermont,America East,22-Oct,09-Aug,2- 0,09-Feb,2-0
+103,103,UTEP,Conference USA,23-Oct,08-Feb,01-Feb,12-Jun,2-0
+104,104,Washington,Pac-12,17-15,03-Aug,0- 3,14-Apr,0-0
+105,105,Quinnipiac,Metro Atlantic,20-Nov,08-Jul,02-Jan,10-Mar,0-0
+106,106,Buffalo,Mid-American,19-Oct,06-Jun,0- 2,12-Feb,1-0
+107,107,UC Santa Barbara,Big West,21-Sep,09-May,02-Jan,08-Mar,2-0
+108,108,UNLV,Mountain West,20-13,06-May,2- 0,12-Aug,0-0
+109,109,UNI,Missouri Valley,16-15,03-Oct,02-Mar,10-Feb,1-0
+110,110,Miami (FL),Atlantic Coast,17-16,07-Jun,02-Feb,08-Aug,0-0
+111,111,UC Irvine,Big West,23-Nov,10-Jun,01-Jan,10-Apr,2-0
+112,113,Sam Houston St.,Southland,23-Oct,06-Jun,05-Feb,09-Jan,03-Jan
+113,112,Wake Forest,Atlantic Coast,17-16,01-Sep,02-Mar,14-Apr,0-0
+114,114,Penn St.,Big Ten,15-17,05-Jul,01-Feb,09-Aug,0-0
+115,115,IPFW,Summit,24-Oct,08-Jul,04-Jan,09-Feb,3-0
+116,116,Utah St.,Mountain West,18-14,04-Jul,01-Feb,12-May,1-0
+117,117,Fresno St.,Mountain West,17-16,05-Sep,01-Feb,09-May,2-0
+118,118,American,Patriot,20-Dec,09-Sep,0- 0,11-Mar,0-0
+119,120,William & Mary,Colonial,20-Dec,08-Jun,02-Feb,09-Apr,1-0
+120,119,Vanderbilt,Southeastern,15-16,03-Aug,02-Feb,10-Jun,0-0
+121,121,Texas Tech,Big 12,14-18,02-Oct,01-Feb,11-Jun,0-0
+122,122,Princeton,Ivy,20-Aug,08-May,01-Jan,10-Feb,1-0
+123,124,Northwestern,Big Ten,14-19,05-Jul,01-Mar,08-Sep,0-0
+124,123,Alabama,Southeastern,13-19,0-11,0- 4,12-Apr,1-0
+125,125,Western Ky.,Sun Belt,20-Dec,07-Jul,0- 1,12-Apr,1-0
+126,126,Davidson,Southern,20-Dec,10-Mar,02-May,07-Apr,1-0
+127,127,Holy Cross,Patriot,19-13,09-Jul,01-Feb,09-Apr,0-0
+128,128,Seton Hall,Big East,17-17,04-Jul,03-Feb,10-Aug,0-0
+129,129,Robert Morris,Northeast,21-13,09-Oct,0- 0,12-Mar,0-0
+130,130,Columbia,Ivy,19-Dec,04-Aug,02-Jan,12-Mar,1-0
+131,131,Milwaukee,Horizon,21-13,10-Jun,04-Jan,06-Jun,1-0
+132,132,Drexel,Colonial,16-14,06-Aug,02-Feb,08-Apr,0-0
+133,134,Pacific,West Coast,15-15,04-Aug,03-Feb,07-May,1-0
+134,133,Illinois St.,Missouri Valley,16-15,03-Oct,0- 2,12-Mar,1-0
+135,135,Wyoming,Mountain West,18-14,03-Oct,1- 0,12-Apr,2-0
+136,136,Notre Dame,Atlantic Coast,15-17,01-Sep,01-Feb,13-Jun,0-0
+137,137,Nevada,Mountain West,15-17,08-Jun,0- 3,07-Aug,0-0
+138,138,South Dakota St.,Summit,19-Dec,07-Jul,01-Feb,08-Mar,3-0
+139,140,Denver,Summit,16-15,04-Aug,02-Mar,09-Apr,1-0
+139,139,South Carolina,Southeastern,14-20,01-Nov,04-Feb,09-Jul,0-0
+141,141,Morehead St.,OVC,20-13,09-Jun,02-Feb,07-May,2-0
+142,142,Murray St.,OVC,18-Nov,05-Sep,0- 1,11-Jan,2-0
+143,143,Houston,AAC,17-16,03-Sep,02-Mar,12-Apr,0-0
+144,145,Utah Valley,Western Athletic,20-Nov,06-Aug,01-Jan,11-Feb,2-0
+145,144,Purdue,Big Ten,15-17,02-Aug,01-Apr,12-May,0-0
+146,146,FGCU,Atlantic Sun,22-Dec,06-Sep,01-Jan,13-Feb,2-0
+147,148,Yale,Ivy,15-13,06-Sep,1- 0,07-Apr,1-0
+148,146,Texas A&M,Southeastern,17-15,01-Aug,0- 4,16-Mar,0-0
+149,150,Weber St.,Big Sky,19-Nov,05-Sep,0- 0,12-Feb,2-0
+150,151,Butler,Big East,14-17,04-Jul,02-Mar,07-Jul,1-0
+151,149,Charlotte,Conference USA,17-14,03-Aug,04-Jan,10-May,0-0
+152,152,UAB,Conference USA,18-13,05-May,01-Mar,10-May,2-0
+153,153,Wofford,Southern,20-Dec,08-Aug,3- 0,06-Apr,3-0
+154,154,DePaul,Big East,Dec-21,03-Sep,01-Mar,08-Sep,0-0
+155,155,Rhode Island,Atlantic 10,14-18,03-Nov,0- 1,10-Jun,1-0
+156,156,San Diego,West Coast,16-16,05-Jul,02-Feb,07-Jul,2-0
+157,157,Georgia Tech,Atlantic Coast,16-17,05-Jul,01-Mar,10-Jul,0-0
+158,159,Northwestern St.,Southland,17-14,06-Oct,01-Jan,06-Mar,4-0
+159,158,Pepperdine,West Coast,15-16,06-Jul,01-Mar,07-Jun,1-0
+160,161,Hawaii,Big West,20-Nov,05-Apr,0- 2,13-May,2-0
+161,162,Miami (OH),Mid-American,13-18,05-Nov,0- 1,08-May,0-1
+162,160,Elon,Southern,18-14,07-Jun,0- 4,09-Mar,02-Jan
+163,163,USC Upstate,Atlantic Sun,19-14,05-Dec,2- 0,10-Feb,2-0
+164,164,George Mason,Atlantic 10,Nov-20,04-Aug,01-Apr,06-Aug,0-0
+165,165,Stony Brook,America East,23-Oct,08-May,03-Feb,11-Mar,1-0
+166,166,Long Beach St.,Big West,15-17,05-Sep,01-Apr,07-Apr,2-0
+167,169,Bucknell,Patriot,16-14,08-Aug,0- 0,08-Jun,0-0
+168,167,Winthrop,Big South,20-13,05-Oct,3- 0,09-Mar,3-0
+169,168,Auburn,Southeastern,14-16,02-Aug,0- 2,12-Jun,0-0
+170,170,Old Dominion,Conference USA,16-17,05-Aug,01-Mar,10-Jun,0-0
+171,171,Southern U.,Southwestern,19-13,09-Aug,0- 1,07-Apr,3-0
+172,172,High Point,Big South,16-14,06-Oct,0- 1,08-Mar,2-0
+173,173,Wright St.,Horizon,20-14,04-Nov,3- 0,11-Mar,2-0
+174,174,Drake,Missouri Valley,15-16,04-Sep,02-Feb,08-May,1-0
+175,176,Temple,AAC,Sep-22,03-Oct,02-Feb,04-Oct,0-0
+176,175,Southern California,Pac-12,Nov-21,02-Oct,01-Mar,07-Aug,1-0
+177,177,Bryant,Northeast,18-14,07-Sep,0- 1,10-Apr,1-0
+178,178,Portland,West Coast,15-16,03-Sep,02-Jan,10-Jun,0-0
+179,180,Loyola Marymount,West Coast,13-19,03-Oct,04-Mar,05-Jun,1-0
+180,179,Arkansas St.,Sun Belt,19-13,07-Aug,01-Jan,09-Apr,2-0
+181,182,Oakland,Horizon,13-20,03-Nov,0- 4,08-May,2-0
+182,181,Colorado St.,Mountain West,16-16,02-Sep,0- 1,12-Jun,2-0
+183,183,Montana,Big Sky,17-13,06-Sep,0- 1,09-Mar,2-0
+184,184,Valparaiso,Horizon,18-15,05-Sep,0- 1,10-May,3-0
+185,185,Albany (NY),America East,18-14,07-Nov,0- 0,11-Mar,0-0
+186,186,St. Francis Brooklyn,Northeast,18-14,07-Nov,1- 0,09-Mar,1-0
+187,186,UALR,Sun Belt,15-17,06-Sep,02-Feb,05-Jun,2-0
+188,188,Duquesne,Atlantic 10,13-17,07-Jun,0- 2,05-Sep,1-0
+189,189,Mt. St. Mary's,Northeast,16-16,Jun-13,0- 0,10-Mar,0-0
+190,190,North Florida,Atlantic Sun,16-16,07-Nov,0- 0,07-May,2-0
+191,191,Oral Roberts,Southland,17-16,03-Nov,03-Jan,07-Apr,4-0
+192,192,Rutgers,AAC,Dec-21,01-Oct,01-Jan,09-Oct,1-0
+193,193,Siena,Metro Atlantic,15-17,05-Sep,0- 4,10-Apr,0-0
+194,194,Bowling Green,Mid-American,Dec-20,04-Nov,01-Jan,06-Aug,1-0
+195,195,North Texas,Conference USA,16-16,06-Jun,01-Mar,06-Jul,3-0
+196,199,Coastal Caro.,Big South,21-Dec,06-Jul,0- 0,12-May,3-0
+197,197,North Dakota,Big Sky,17-16,04-Nov,02-Feb,09-Mar,2-0
+198,201,Rider,Metro Atlantic,14-17,06-Aug,02-Feb,06-Jul,0-0
+199,198,Texas-Arlington,Sun Belt,15-17,05-Nov,01-Jan,07-May,2-0
+200,202,Southern Ill.,Missouri Valley,14-19,03-Nov,02-Mar,08-May,1-0
+201,196,UNC Asheville,Big South,17-15,05-Oct,01-Mar,08-Feb,3-0
+202,200,FIU,Conference USA,15-16,05-Aug,0- 2,08-May,02-Jan
+203,203,Grand Canyon,Western Athletic,15-14,05-Sep,02-Feb,05-Mar,3-0
+204,204,Hampton,Mid-Eastern,18-Dec,08-Jun,01-Mar,09-Mar,0-0
+205,206,Northern Colo.,Big Sky,18-13,04-Nov,1- 0,11-Feb,2-0
+206,207,East Tenn. St.,Atlantic Sun,18-15,05-Oct,0- 0,12-May,1-0
+207,205,Boston College,Atlantic Coast,Aug-24,03-Nov,01-Apr,03-Sep,1-0
+208,208,Cal Poly,Big West,13-19,03-Dec,04-Jan,04-Jun,2-0
+209,209,Lipscomb,Atlantic Sun,15-15,08-Oct,0- 0,06-May,1-0
+210,211,Santa Clara,West Coast,14-19,05-Aug,02-Feb,05-Sep,2-0
+211,210,VMI,Big South,19-Dec,05-Oct,1- 0,09-Feb,4-0
+212,211,TCU,Big 12,Sep-22,02-Sep,01-Mar,04-Oct,2-0
+213,213,Kent St.,Mid-American,16-16,05-Sep,0- 0,10-Jul,1-0
+214,214,Evansville,Missouri Valley,14-19,03-Nov,01-Jan,08-Jul,2-0
+215,216,Tennessee Tech,OVC,17-16,06-Sep,01-Mar,08-Apr,2-0
+216,215,East Carolina,Conference USA,17-16,03-Oct,4- 0,06-Jun,4-0
+217,217,Northern Ill.,Mid-American,15-17,05-Sep,0- 1,09-Jul,1-0
+218,218,Wagner,Northeast,19-Dec,08-Jul,01-Feb,09-Mar,1-0
+219,219,Omaha,Summit,16-14,06-Oct,0- 0,07-Apr,3-0
+220,220,UCF,AAC,13-18,02-Oct,01-Jan,08-Jul,2-0
+221,221,Western Caro.,Southern,19-15,05-Nov,03-Feb,08-Feb,3-0
+222,222,Northeastern,Colonial,Nov-21,04-Sep,03-Apr,04-Aug,0-0
+223,223,Tulane,Conference USA,17-16,04-Jun,01-Apr,11-Jun,1-0
+224,224,Washington St.,Pac-12,Oct-21,01-Oct,01-Mar,07-Aug,1-0
+225,225,Morgan St.,Mid-Eastern,15-16,05-Sep,03-Mar,07-Apr,0-0
+226,226,Fordham,Atlantic 10,Oct-21,02-Dec,01-Jan,07-Aug,0-0
+227,227,Norfolk St.,Mid-Eastern,19-14,07-Jul,04-Mar,05-Apr,3-0
+228,228,Eastern Wash.,Big Sky,15-16,03-Dec,2- 0,08-Apr,2-0
+229,229,Brown,Ivy,15-13,07-Aug,0- 0,07-May,1-0
+230,230,Detroit,Horizon,13-19,05-Dec,0- 0,06-Jul,2-0
+231,232,Saint Peter's,Metro Atlantic,14-17,05-Nov,01-Jan,08-May,0-0
+232,231,South Fla.,AAC,Dec-20,05-Jul,0- 3,07-Oct,0-0
+233,233,James Madison,Colonial,Nov-20,04-Dec,02-Mar,05-May,0-0
+234,234,Hartford,America East,17-16,07-Sep,01-Apr,09-Mar,0-0
+235,235,Army,Patriot,15-16,07-Aug,01-Jan,06-Jul,1-0
+236,236,Lehigh,Patriot,14-18,Apr-13,1- 0,09-May,0-0
+237,237,Youngstown St.,Horizon,15-17,Feb-13,2- 0,08-Apr,3-0
+238,238,Idaho,Western Athletic,16-18,05-Sep,04-Mar,06-Jun,1-0
+239,239,Texas Southern,Southwestern,19-14,06-Nov,04-Jan,08-Feb,1-0
+240,240,Radford,Big South,21-Dec,08-Jul,03-Jan,07-Apr,3-0
+241,241,Gardner-Webb,Big South,18-15,07-Sep,03-Jan,05-May,3-0
+242,244,Col. of Charleston,Colonial,14-18,04-Aug,01-Mar,08-Jul,1-0
+243,245,Chattanooga,Southern,18-14,05-Oct,01-Feb,09-Feb,3-0
+244,243,La.-Monroe,Sun Belt,Oct-17,04-Oct,0- 1,05-Jun,1-0
+245,242,Mississippi St.,Southeastern,14-19,0-10,03-Feb,11-Jul,0-0
+246,246,Virginia Tech,Atlantic Coast,Sep-22,01-Aug,0- 4,08-Oct,0-0
+247,247,Northern Ariz.,Big Sky,15-17,06-Oct,0- 3,08-Apr,1-0
+248,248,A&M-Corpus Christi,Southland,17-15,06-Jun,0- 1,09-Jun,02-Feb
+249,249,Marist,Metro Atlantic,Dec-19,03-Nov,0- 4,09-Apr,0-0
+250,250,Air Force,Mountain West,Dec-18,03-Aug,01-Jan,06-Sep,2-0
+251,251,UMKC,Western Athletic,Oct-20,05-Oct,0- 1,05-Aug,0-1
+252,252,Portland St.,Big Sky,17-14,04-Aug,01-Jan,10-May,2-0
+253,253,Cal St. Northridge,Big West,17-18,Feb-14,04-Jan,09-Mar,2-0
+254,254,Alabama St.,Southwestern,19-Dec,05-Sep,01-Feb,10-Jan,3-0
+255,255,South Dakota,Summit,Dec-18,Feb-13,0- 2,07-Mar,3-0
+256,256,Colgate,Patriot,13-18,06-Oct,0- 0,06-Aug,1-0
+257,257,Southeast Mo. St.,OVC,18-14,05-Sep,04-Jan,07-Apr,2-0
+258,258,Lafayette,Patriot,Nov-20,May-13,0- 0,05-Jul,1-0
+259,259,Chicago St.,Western Athletic,13-19,Apr-13,0- 1,07-May,2-0
+260,260,New Orleans,Southland,Nov-15,05-Sep,0- 0,03-May,03-Jan
+261,261,Coppin St.,Mid-Eastern,Dec-20,05-Oct,02-Mar,04-Jul,1-0
+262,262,Nicholls St.,Southland,14-15,04-Dec,01-Jan,07-Jan,02-Jan
+263,263,Sacramento St.,Big Sky,14-16,03-Dec,0- 1,09-Mar,2-0
+264,264,Ark.-Pine Bluff,Southwestern,13-18,05-Dec,0- 3,06-Mar,2-0
+265,265,Bradley,Missouri Valley,Dec-20,01-Nov,0- 3,11-Jun,0-0
+266,266,Dartmouth,Ivy,Dec-16,04-Sep,0- 0,06-Jul,2-0
+267,267,Seattle,Western Athletic,13-17,05-Sep,01-Jan,05-Jul,2-0
+268,268,Charleston So.,Big South,13-18,04-Dec,1- 0,04-Jun,4-0
+269,270,Fairleigh Dickinson,Northeast,Oct-21,Apr-14,0- 1,05-May,01-Jan
+270,269,Fla. Atlantic,Conference USA,Oct-22,03-Nov,0- 3,05-Aug,2-0
+271,271,Alabama A&M,Southwestern,14-16,05-Nov,01-Jan,06-Apr,2-0
+272,272,McNeese St.,Southland,Nov-20,Mar-14,0- 3,04-Mar,4-0
+273,273,Savannah St.,Mid-Eastern,13-19,05-Nov,01-Mar,05-May,2-0
+274,274,Loyola Maryland,Patriot,Nov-19,04-Dec,0- 0,06-Jul,1-0
+275,276,Montana St.,Big Sky,14-17,05-Oct,0- 2,07-May,2-0
+276,275,Marshall,Conference USA,Nov-22,02-Dec,01-Feb,06-Aug,2-0
+277,277,Hofstra,Colonial,Oct-23,Jan-13,02-Feb,07-Aug,0-0
+278,278,San Jose St.,Mountain West,Jul-24,03-Dec,0- 3,02-Sep,2-0
+279,280,Bakersfield,Western Athletic,13-19,05-Oct,02-Feb,05-Jul,1-0
+280,279,South Ala.,Sun Belt,Nov-20,Jan-13,0- 1,07-Jun,3-0
+281,281,UNC Wilmington,Colonial,Sep-23,Mar-14,0- 1,04-Aug,2-0
+282,283,Jacksonville,Atlantic Sun,Dec-18,Feb-13,0- 0,08-May,2-0
+283,282,UMass Lowell,America East,Oct-18,04-Dec,0- 0,05-Jun,1-0
+284,284,Penn,Ivy,Aug-20,02-Dec,0- 0,06-Aug,0-0
+285,285,Troy,Sun Belt,Nov-20,03-Nov,0- 3,06-Jun,2-0
+286,286,Cal St. Fullerton,Big West,Nov-20,03-Dec,0- 2,08-Jun,0-0
+287,287,Idaho St.,Big Sky,Nov-18,Feb-13,0- 1,07-Apr,2-0
+288,288,Loyola Chicago,Missouri Valley,Oct-22,0-14,02-Feb,07-Jun,1-0
+289,289,Fairfield,Metro Atlantic,Jul-25,Feb-13,0- 3,05-Sep,0-0
+290,290,Western Ill.,Summit,Oct-20,Jan-13,02-Feb,04-May,3-0
+291,291,Eastern Ill.,OVC,Nov-19,04-Nov,0- 1,05-Jul,2-0
+292,292,Monmouth,Metro Atlantic,Nov-21,03-Dec,0- 1,08-Aug,0-0
+293,293,Central Conn. St.,Northeast,Nov-19,06-Oct,0- 1,04-Aug,1-0
+294,294,Florida A&M,Mid-Eastern,14-18,Mar-13,02-Feb,07-Mar,2-0
+294,294,Central Mich.,Mid-American,Oct-21,Feb-13,0- 0,06-Aug,2-0
+296,296,Jackson St.,Southwestern,Nov-20,May-13,0- 1,06-Jun,0-0
+297,297,Saint Francis (PA),Northeast,Oct-21,May-13,0- 0,05-Aug,0-0
+298,298,LIU Brooklyn,Northeast,Sep-20,04-Nov,0- 2,05-Jul,0-0
+299,299,Rice,Conference USA,Jul-23,02-Nov,0- 3,03-Sep,2-0
+300,300,Tennessee St.,OVC,May-25,Feb-13,0- 2,02-Oct,1-0
+301,301,UNC Greensboro,Southern,14-18,04-Aug,01-Mar,06-Jul,3-0
+302,302,Niagara,Metro Atlantic,Jul-26,Jan-14,02-Mar,04-Sep,0-0
+303,303,Ga. Southern,Southern,15-19,05-Nov,03-Feb,04-Jun,3-0
+304,304,Prairie View,Southwestern,Nov-23,Feb-16,04-Jan,04-Jun,1-0
+305,305,Austin Peay,OVC,Dec-18,03-Nov,01-Jan,06-Jun,2-0
+306,306,UTSA,Conference USA,Aug-22,01-Dec,0- 1,05-Aug,02-Jan
+307,307,Texas St.,Sun Belt,Aug-23,Jan-13,02-Jan,03-Sep,2-0
+308,308,NJIT,Division I Independents,13-16,06-Oct,0- 0,03-Jun,4-0
+309,309,Ball St.,Mid-American,May-25,0-16,0- 0,03-Sep,2-0
+310,310,Northern Ky.,Atlantic Sun,Sep-21,02-Dec,0- 2,07-Jul,0-0
+311,311,Liberty,Big South,Nov-21,02-Dec,02-Jan,04-Aug,3-0
+312,312,Tex.-Pan American,Western Athletic,Sep-23,05-Nov,01-Feb,02-Oct,1-0
+313,313,Samford,Southern,13-20,Feb-15,01-Jan,07-Apr,3-0
+314,314,Alcorn,Southwestern,Dec-19,Mar-13,0- 3,06-Mar,3-0
+315,315,Ill.-Chicago,Horizon,Jun-25,02-Nov,02-Feb,0-12,2-0
+316,316,Campbell,Big South,Dec-20,03-Dec,0- 1,06-Jun,03-Jan
+317,317,Jacksonville St.,OVC,Oct-21,Feb-14,01-Jan,05-Jun,2-0
+318,318,Southeastern La.,Southland,Dec-18,04-Nov,0- 2,04-May,4-0
+319,319,UC Riverside,Big West,Oct-21,Feb-13,0- 1,06-Jul,2-0
+320,320,SIU Edwardsville,OVC,Nov-20,02-Dec,0- 3,07-May,2-0
+321,321,Navy,Patriot,Sep-21,Feb-15,0- 0,06-Jun,1-0
+322,322,IUPUI,Summit,Jun-26,Jan-13,0- 3,02-Oct,3-0
+323,323,Howard,Mid-Eastern,Aug-25,Feb-17,02-Feb,02-Jun,2-0
+324,324,Kennesaw St.,Atlantic Sun,Jun-25,Feb-14,0- 0,02-Nov,2-0
+325,326,Binghamton,America East,Jul-23,04-Dec,0- 1,03-Oct,0-0
+326,325,UC Davis,Big West,Sep-22,Jan-13,2- 0,04-Sep,2-0
+327,327,UMBC,America East,Sep-21,Jan-16,0- 0,07-May,1-0
+328,328,Central Ark.,Southland,Aug-21,01-Nov,0- 0,05-Aug,02-Feb
+329,329,Delaware St.,Mid-Eastern,Sep-21,02-Dec,0- 2,05-Jul,2-0
+330,331,Maine,America East,Jun-23,Jan-13,01-Jan,03-Sep,1-0
+331,330,South Carolina St.,Mid-Eastern,Sep-21,Feb-14,0- 1,05-Jun,2-0
+332,332,UT Martin,OVC,Aug-23,Mar-13,0- 0,03-Oct,2-0
+333,333,Stetson,Atlantic Sun,Jul-24,Jan-15,0- 3,06-Jun,0-0
+334,334,Cornell,Ivy,Feb-26,0-15,0- 0,01-Nov,1-0
+335,335,Appalachian St.,Southern,Sep-21,Feb-13,0- 1,03-Jul,4-0
+336,336,N.C. A&T,Mid-Eastern,Sep-23,Jan-17,01-Jan,06-May,1-0
+337,337,Longwood,Big South,Aug-24,03-Dec,0- 3,01-Sep,4-0
+338,338,Sacred Heart,Northeast,May-26,Apr-14,0- 2,01-Oct,0-0
+339,339,Furman,Southern,Sep-21,03-Dec,0- 1,04-Jul,02-Jan
+340,340,New Hampshire,America East,Jun-24,03-Dec,0- 1,02-Nov,1-0
+341,341,Houston Baptist,Southland,Jun-25,Jan-13,0- 2,03-Aug,02-Feb
+342,342,Mississippi Val.,Southwestern,Sep-23,Jan-17,01-Jan,04-May,3-0
+343,343,Bethune-Cookman,Mid-Eastern,Jul-25,Feb-17,0- 2,03-Jun,2-0
+344,344,Lamar,Southland,Apr-26,0-13,01-Jan,02-Nov,01-Jan
+345,345,Citadel,Southern,Jul-26,0-15,01-Feb,03-Aug,03-Jan
+346,346,Southern Utah,Big Sky,Feb-27,0-16,0- 0,01-Nov,1-0
+347,347,UMES,Mid-Eastern,Jun-24,Jan-15,0- 1,04-Jul,01-Jan
+348,348,Grambling,Southwestern,May-24,Jan-15,01-Jan,02-Jul,01-Jan
+349,349,Presbyterian,Big South,Jun-26,Jan-15,0- 3,03-Aug,2-0
